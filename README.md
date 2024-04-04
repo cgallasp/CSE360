@@ -1,0 +1,2 @@
+# CSE360
+This repository is to serve as CSE360 Github tutorial. 
